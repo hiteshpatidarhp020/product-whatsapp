@@ -1,0 +1,82 @@
+[
+  {
+    "id": "PRD001",
+    "name": "Premium Wireless Headphones",
+    "description": "High-quality sound with noise cancellation and 30-hour battery life.",
+    "price": 2499,
+    "stock": 40,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&h=500&fit=crop"
+  },
+  {
+    "id": "PRD002",
+    "name": "Smart Watch Pro",
+    "description": "AMOLED display, fitness tracking, and 7-day battery.",
+    "price": 5999,
+    "stock": 40,
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&h=500&fit=crop"
+  },
+  {
+    "id": "PRD003",
+    "name": "USB-C Fast Charger",
+    "description": "65W fast charging for all USB-C devices.",
+    "price": 799,
+    "stock": 10,
+    "image": "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?w=500&h=500&fit=crop"
+  },
+  {
+    "id": "PRD004",
+    "name": "Portable Power Bank",
+    "description": "20000mAh capacity with dual fast charging ports.",
+    "price": 1299,
+    "stock": 40,
+    "image": "https://images.unsplash.com/photo-1609434713159-7d9ec4d37563?w=500&h=500&fit=crop"
+  },
+  {
+    "id": "PRD005",
+    "name": "Wireless Phone Stand",
+    "description": "Adjustable stand for all phones and tablets.",
+    "price": 599,
+    "stock": 40,
+    "image": "https://images.unsplash.com/photo-1599893863693-6d075c7edbea?w=500&h=500&fit=crop"
+  },
+  {
+    "id": "PRD006",
+    "name": "LED Desk Lamp",
+    "description": "Adjustable brightness and color temperature.",
+    "price": 1899,
+    "stock": 40,
+    "image": "https://images.unsplash.com/photo-1565636192335-14c46fa1120d?w=500&h=500&fit=crop"
+  },
+  {
+    "id": "PRD007",
+    "name": "Mechanical Keyboard RGB",
+    "description": "Cherry MX switches with customizable RGB lighting.",
+    "price": 3999,
+    "stock": 10,
+    "image": "https://images.unsplash.com/photo-1587829191301-0a856ea42ecb?w=500&h=500&fit=crop"
+  },
+  {
+    "id": "PRD008",
+    "name": "Wireless Mouse Pro",
+    "description": "Ergonomic design with precision tracking and silent clicks.",
+    "price": 1499,
+    "stock": 40,
+    "image": "https://images.unsplash.com/photo-1527814050087-3793815479db?w=500&h=500&fit=crop"
+  },
+  {
+    "id": "PRD009",
+    "name": "USB Hub Adapter",
+    "description": "7-in-1 USB hub with charging and data transfer.",
+    "price": 899,
+    "stock": 40,
+    "image": "https://images.unsplash.com/photo-1617638924702-92d37fa6f44b?w=500&h=500&fit=crop"
+  },
+  {
+    "id": "PRD010",
+    "name": "Phone Screen Protector Pack",
+    "description": "Tempered glass with 9H hardness for all phones.",
+    "price": 399,
+    "stock": 10,
+    "image": "https://images.unsplash.com/photo-1511591437281-afd356e3e044?w=500&h=500&fit=crop"
+  }
+]

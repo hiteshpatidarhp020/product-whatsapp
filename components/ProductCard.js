@@ -22,7 +22,7 @@ export default function ProductCard({ product }) {
       <div className="flex items-stretch">
         
         {/* Product Image - Left Side */}
-        <div className="w-32 h-32 sm:w-40 sm:h-40 flex-shrink-0 bg-gray-100 overflow-hidden group">
+        <div className="w-32 h-32 product-main sm:w-40 sm:h-40 flex-shrink-0 bg-gray-100 overflow-hidden group">
           <img
             src={product.image}
             alt={product.name}
@@ -36,7 +36,7 @@ export default function ProductCard({ product }) {
           {/* Stock Badge & Title */}
           <div>
             {/* Stock Badge */}
-            <div className="flex items-center gap-2 mb-2">
+            <div className="flex items-center  gap-2 mb-2">
               {product.stock > 15 ? (
                 <span className="text-xs font-semibold text-green-600 bg-green-50 px-2.5 py-1 rounded-full">
                   In Stock: {product.stock}

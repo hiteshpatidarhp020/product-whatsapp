@@ -13,7 +13,7 @@ export default function ProductCard({ product }) {
     const encodedMessage = encodeURIComponent(message);
 
     // Redirect to WhatsApp
-    window.open(`https://wa.me/918962048813?text=${encodedMessage}`, '_blank');
+    window.open(`https://wa.me/6263481053?text=${encodedMessage}`, '_blank');
   };
 
   return (

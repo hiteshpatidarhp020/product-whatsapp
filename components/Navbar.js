@@ -6,11 +6,11 @@ export default function Navbar() {
           {/* Logo and Brand */}
           <div className="flex items-center gap-3">
             <div className="w-10 h-10 bg-gradient-to-br from-blue-500 to-blue-600 rounded-lg flex items-center justify-center">
-              <span className="text-white font-bold text-lg">P</span>
+              <span className="text-white font-bold text-lg">CZ</span>
             </div>
             <div>
-              <h1 className="text-xl font-bold text-gray-900">ProductHub</h1>
-              <p className="text-xs text-gray-500">Modern eCommerce</p>
+              <h1 className="text-xl font-bold text-gray-900">CreativeZeal</h1>
+              <p className="text-xs text-gray-500">by Sapna Wadhwani</p>
             </div>
           </div>
 

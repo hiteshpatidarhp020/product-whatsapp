@@ -46,7 +46,7 @@ export default function Home() {
             </div>
             <div>
               <h3 className="text-white font-semibold mb-2 text-sm sm:text-base">Contact</h3>
-              <p className="text-xs sm:text-sm">WhatsApp: 6263481053</p>
+              <p className="text-xs sm:text-sm">WhatsApp: 6263481054</p>
               <p className="text-xs sm:text-sm">Available 24/7</p>
             </div>
           </div>

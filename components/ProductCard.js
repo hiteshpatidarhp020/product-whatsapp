@@ -13,7 +13,7 @@ export default function ProductCard({ product }) {
     const encodedMessage = encodeURIComponent(message);
 
     // Redirect to WhatsApp
-    window.open(`https://wa.me/6263481053?text=${encodedMessage}`, '_blank');
+    window.open(`https://wa.me/6263481054?text=${encodedMessage}`, '_blank');
   };
 
   return (
@@ -23,7 +23,7 @@ export default function ProductCard({ product }) {
         
         {/* Product Image - Left Side */}
         <div className="w-32 h-32 sm:w-40 sm:h-40 flex-shrink-0 bg-gray-100 overflow-hidden group">
-          <img
+          <imggit add .
             src={product.image}
             alt={product.name}
             className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-300"

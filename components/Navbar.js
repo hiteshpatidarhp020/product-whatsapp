@@ -9,7 +9,7 @@ export default function Navbar() {
               <span className="text-white font-bold text-lg">P</span>
             </div>
             <div>
-              <h1 className="text-xl font-bold text-gray-900">ProductHub hak</h1>
+              <h1 className="text-xl font-bold text-gray-900">ProductHub</h1>
               <p className="text-xs text-gray-500">Modern eCommerce</p>
             </div>
           </div>

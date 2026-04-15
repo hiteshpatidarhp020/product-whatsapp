@@ -23,7 +23,7 @@ export default function ProductCard({ product }) {
         
         {/* Product Image - Left Side */}
         <div className="w-32 h-32 sm:w-40 sm:h-40 flex-shrink-0 bg-gray-100 overflow-hidden group">
-          <imggit add .
+          <img
             src={product.image}
             alt={product.name}
             className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-300"
